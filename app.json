@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "expo-notifications-bare-workflow",
+    "slug": "expo-notifications-bare-workflow",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "expo-notifications-bare-workflow"
+}
